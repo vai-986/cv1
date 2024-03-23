@@ -1,0 +1,16 @@
+header{
+    background-color:#782221;
+    width: 1160px;
+    padding-top: 3rem;
+    color: rgb(255, 255, 255);
+}
+.header-div{
+    text-align: center;
+    padding-bottom: 2rem;
+
+}
+.profil{
+    height: 10rem;
+    border-radius: 50%;
+    box-shadow: 0 0 10px white;
+}

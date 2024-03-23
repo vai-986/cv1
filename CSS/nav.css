@@ -1,0 +1,47 @@
+nav{
+    background-color: #2c1d27;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    height: 6rem;
+}
+nav a{
+    color: rgb(255, 255, 255);
+}
+.nav-div1{
+    display: flex;
+    justify-content:start;
+    align-items: center;
+}
+nav .a1{
+    width: 12rem;
+    text-align: start;
+    margin-left: 3rem;
+    text-decoration:none;
+}
+.nav-div2{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+nav .a2{
+    width: 12rem;
+    text-align:center;
+    margin-left: 3rem;
+    text-decoration:none;
+}
+.nav-div3{
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+nav .a3{
+    width: 12rem;
+    text-align: end;
+    margin-right: 3rem;
+    text-decoration:none;
+}
+nav a:hover{
+    text-decoration: underline;
+}
+
+
