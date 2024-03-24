@@ -13,4 +13,5 @@ header{
     height: 10rem;
     border-radius: 50%;
     box-shadow: 0 0 10px white;
+    cursor: zoom-in;
 }
