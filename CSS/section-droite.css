@@ -1,0 +1,22 @@
+.section-droite{
+    grid-column:span 5;
+    background-color: rgb(255, 255, 255);
+    border-right: solid 2px;
+}
+.div-droite{
+    width: 90%;
+    margin: 1.5rem 2rem 0 2.5rem;
+}
+.h2-droite{
+    background-color: #dbc2a4;
+    padding: 0.5rem 0.5rem;
+    border-left: solid 0.5rem #782221;
+}
+.li-div-droite{
+    margin-left: 2rem;
+}
+.ombre{
+    font-weight:500;
+    font-style: oblique;
+    color: rgb(58, 56, 25);
+}

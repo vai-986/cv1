@@ -4,16 +4,13 @@ h1{
     font-family: lato;
     text-transform: uppercase;
 }
-h2{
+h2,h3{
     font-family: lato;
 }
 a{
     font-family: lato;
 }
-.div-p{
-    font-family: raleway;
-}
-.li-div{
+p,li{
     font-family: raleway;
 }
 
