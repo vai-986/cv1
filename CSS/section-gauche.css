@@ -1,0 +1,23 @@
+.section-gauche{
+    background-color: #782221;
+    grid-column: span 3;
+    width: 100%;
+    color: #ffffff;
+}
+.div-gauche{
+    width: 85%;
+    margin-top: 1.5rem;
+}
+.h2-gauche{
+    background-color: #dbc2a4;
+    padding: 0.5rem 2rem;
+    color: black;
+}
+.div-p{
+    text-indent: 2.5rem;
+    text-align: justify;
+    padding-left: 2rem;
+}
+.li-div{
+    margin-left: 2rem;
+}

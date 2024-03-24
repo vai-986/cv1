@@ -5,5 +5,10 @@ body{
 }
 main{
     width: 1160px;
-    background-color: aqua;
 }
+.main-section{
+    display: grid;
+    grid-template-columns: repeat(8,1fr);
+
+}
+
